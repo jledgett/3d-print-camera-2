@@ -159,37 +159,37 @@ Please see the following individual print notes below.
 
 ## Assembly Instructions
 
-1.) Install Raspbian OS onto the SD card and perform any initial configuration.   
-2.) Attach camera ribbon cable to the Raspberry Pi HQ Camera
-3.) Attach one fan and fan grill to the interior of the right side using M4 screws and nuts
-4.) Carefully slide camera module into front housing and secure using a 1/4-20 screw from the bottom
-5.) Gently fold the camera cable so it can pass out the left side of the housing
-6.) Slide the camera mount into place behind the camera and secure it using two M4 screws from the bottom and two additional M4 screws from the top.   Take care not to pinch the camera cable.
-7.) Thread the M2.5 x 35mm Cap Head Screws through the front of the housing, through the camera's mounting holes, and then through the camera mount block.  Secure the back of the screws with a nut.  
-8.) Feed the camera cable and fan cable through the top slot and out the rear of the main housing
-9.) Attach the top handle using two 1/4-20 cap head screws in the front and middle holes of the top handle.   Place a nut and washer inside of the housing to secure the middle screw to the housing.
-10.) Secure the right panel to the front housing using four M2.5 screws
-11.) Place three M4 screws and nuts on the left panel.   These are decorative.
-12.) Place one D-ring screw from the camera screw pack into the other hole of the left panel.
-13.) Secure the left panel to the fron housing using three M2.5 screws.
-14.) Slide the LCD panel carefully into the rear housing, starting with the top edge.   Press only in the corners as you push it inwards to avoid cracking the glass of the display.
-15.) Set the Raspberry Pi on the mounting holes on the back of the display and secure it using the four 30mm brass standoffs that are included with the display.   Ensure that the SD card is inserted properly in the slot on the Raspberry Pi!
-16.) Attach the small DSI cable between the display and the Raspberry Pi.
-17.) Slide a hinge into either hinge slot of the rear housing and secure them with two M3 cap screws and nuts per side.
-18.) Placing the front housing adjacent to the rear housing and feed the fan cable and camera cable through the top slot of the rear housing.   
-19.) Attach the camera cable to the Raspberry Pi board, ensuring the cable is properly secured.   
-20.) Place the second 40mm fan in the bottom of the rear housing.
-21.) Using the four jumper wires attach the Y fan cable to the [appropriate GPIO pins](https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=244194).   
-22.) Place the wire clips over the ends of the brass stand offs, and connect both fans to the Y cable.   Use the wire clips to organize the wiring.
-23.) Attach the inner lid to the rear housing.  Secure using four longer M2.5 screws through the wire clips and into the brass stand offs.   Then secure the outer corners with four M2.5 screws.
-24.) Carefully attach the rear housing and front housing together by sliding the unsecured ends of the hinges into the hinge slots of the front housing.  Secure with two M3 cap screws and nuts per side.
-25.) Insert the HDMI & USB-C Port Recess Housing into the top of the rear housing and secure it with two M2.5 screws.
-26.) Using the Gorilla Glue, secure the magnets to the 3mm deep recesses on the lower edge of the front and rear housings.  Be sure to check that the polarity of the magnets are set to attract each other BEFORE gluing them in place.   Allow the glue to dry according to the instructions on the bottle.
-27.) Using the Gorilla Glue, secure the rubberized feet to the four spots on the bottom corners of the front housing.   
-28.) Using the Gorilla Glue, secure another rubberized foot to the recess inside the bottom of the battery compartment.
-29.) Using an appropriate length 1/4-20 screw attach the right handle to the right side panel.   This should pass through the right side panel and into the front housing.
-30.) Thread the knob through the rear hole of the top handle.   Once the threaded rod is inside the battery compartment, snap on the pressure foot and retract the knob.
-31.) Attach the USB-C cable clips using a 1/4-1/4 coupler or 1/4-3/8 coupler from the camera screw pack.    Before the tightening these down, feed the USB-C cable through the clips, ensuring there is enough length on the left side for it to reach the Raspberry Pi's USB-C port.
-32.) If you printed the optional Stylus Clip, attach it to the right of the front housing (below the battery compartment).   This should be able to hold a stylus or pen 8 - 9mm in diameter.
-33.) Slide the battery into the compartment and secure it by threading the knob on the top handle until it is snug.   Do not overtighten or you may damage your battery.
+1. Install Raspbian OS onto the SD card and perform any initial configuration.   
+2. Attach camera ribbon cable to the Raspberry Pi HQ Camera
+3. Attach one fan and fan grill to the interior of the right side using M4 screws and nuts
+4. Carefully slide camera module into front housing and secure using a 1/4-20 screw from the bottom
+5. Gently fold the camera cable so it can pass out the left side of the housing
+6. Slide the camera mount into place behind the camera and secure it using two M4 screws from the bottom and two additional M4 screws from the top.   Take care not to pinch the camera cable.
+7. Thread the M2.5 x 35mm Cap Head Screws through the front of the housing, through the camera's mounting holes, and then through the camera mount block.  Secure the back of the screws with a nut.  
+8. Feed the camera cable and fan cable through the top slot and out the rear of the main housing
+9. Attach the top handle using two 1/4-20 cap head screws in the front and middle holes of the top handle.   Place a nut and washer inside of the housing to secure the middle screw to the housing.
+10. Secure the right panel to the front housing using four M2.5 screws
+11. Place three M4 screws and nuts on the left panel.   These are decorative.
+12. Place one D-ring screw from the camera screw pack into the other hole of the left panel.
+13. Secure the left panel to the fron housing using three M2.5 screws.
+14. Slide the LCD panel carefully into the rear housing, starting with the top edge.   Press only in the corners as you push it inwards to avoid cracking the glass of the display.
+15. Set the Raspberry Pi on the mounting holes on the back of the display and secure it using the four 30mm brass standoffs that are included with the display.   Ensure that the SD card is inserted properly in the slot on the Raspberry Pi!
+16. Attach the small DSI cable between the display and the Raspberry Pi.
+17. Slide a hinge into either hinge slot of the rear housing and secure them with two M3 cap screws and nuts per side.
+18. Placing the front housing adjacent to the rear housing and feed the fan cable and camera cable through the top slot of the rear housing.   
+19. Attach the camera cable to the Raspberry Pi board, ensuring the cable is properly secured.   
+20. Place the second 40mm fan in the bottom of the rear housing.
+21. Using the four jumper wires attach the Y fan cable to the [appropriate GPIO pins](https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=244194).   
+22. Place the wire clips over the ends of the brass stand offs, and connect both fans to the Y cable.   Use the wire clips to organize the wiring.
+23. Attach the inner lid to the rear housing.  Secure using four longer M2.5 screws through the wire clips and into the brass stand offs.   Then secure the outer corners with four M2.5 screws.
+24. Carefully attach the rear housing and front housing together by sliding the unsecured ends of the hinges into the hinge slots of the front housing.  Secure with two M3 cap screws and nuts per side.
+25. Insert the HDMI & USB-C Port Recess Housing into the top of the rear housing and secure it with two M2.5 screws.
+26. Using the Gorilla Glue, secure the magnets to the 3mm deep recesses on the lower edge of the front and rear housings.  Be sure to check that the polarity of the magnets are set to attract each other BEFORE gluing them in place.   Allow the glue to dry according to the instructions on the bottle.
+27. Using the Gorilla Glue, secure the rubberized feet to the four spots on the bottom corners of the front housing.   
+28. Using the Gorilla Glue, secure another rubberized foot to the recess inside the bottom of the battery compartment.
+29. Using an appropriate length 1/4-20 screw attach the right handle to the right side panel.   This should pass through the right side panel and into the front housing.
+30. Thread the knob through the rear hole of the top handle.   Once the threaded rod is inside the battery compartment, snap on the pressure foot and retract the knob.
+31. Attach the USB-C cable clips using a 1/4-1/4 coupler or 1/4-3/8 coupler from the camera screw pack.    Before the tightening these down, feed the USB-C cable through the clips, ensuring there is enough length on the left side for it to reach the Raspberry Pi's USB-C port.
+32. If you printed the optional Stylus Clip, attach it to the right of the front housing (below the battery compartment).   This should be able to hold a stylus or pen 8 - 9mm in diameter.
+33. Slide the battery into the compartment and secure it by threading the knob on the top handle until it is snug.   Do not overtighten or you may damage your battery.
 
