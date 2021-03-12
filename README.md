@@ -7,6 +7,8 @@ This is an actively-cooled cinema-style camera housing for a Raspberry Pi 4B and
 
 If you are looking for software to run on this camera, consider this [camera](https://github.com/eat-sleep-code/camera) software that includes on-screen controls and raw image capture.
 
+![Side View](/images/Side View - Canon 24-105.jpg)
+
 ## Getting Started
 
 ### You will need the following non-included parts:
