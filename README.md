@@ -131,7 +131,7 @@ Please see the following individual print notes below.
    * Positioning: Interior/Hinge Side Down
    * Quantity: 1
 
-* **Stylus Clip **
+* **Stylus Clip**
    * Infill: 80%
    * Material Required: ~ 1g - Hatchbox True Black 1.75mm PLA
    * Supports: None
