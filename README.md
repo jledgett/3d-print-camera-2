@@ -1,4 +1,5 @@
-# Cinema-Style Camera Housing For Raspberry Pi 4 and HQ Camera - REV 2
+# Cinema-Style Camera Housing For Raspberry Pi 4 and HQ Camera
+(Revision 2)
 
 ## Overview
 
