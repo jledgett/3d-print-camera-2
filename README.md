@@ -7,7 +7,7 @@ This is an actively-cooled cinema-style camera housing for a Raspberry Pi 4B and
 
 If you are looking for software to run on this camera, consider this [camera](https://github.com/eat-sleep-code/camera) software that includes on-screen controls and raw image capture.
 
-![Side View](/images/Side View - Canon 24-105.jpg)
+![Side View](https://github.com/jledgett/3d-print-camera-2/raw/main/images/Side%20View%20-%20Canon%2024-105.jpg)
 
 ## Getting Started
 
@@ -44,6 +44,9 @@ If you are looking for software to run on this camera, consider this [camera](ht
 * Xacto Knife (for cleaning up small imperfections in prints)
 * WD-40 (for lubricating threads of fasteners)
 * Gorilla Glue gel
+
+![Rear View](https://github.com/jledgett/3d-print-camera-2/raw/main/images/Rear%20View%20-%2035mm.jpg)
+
 
 ## Printing Instructions
 
@@ -159,6 +162,8 @@ Please see the following individual print notes below.
 
 :warning:  80% infill is used for many of these pieces to ensure there is minimal flex when the camera is equipped with heavier lenses.   If you choose to decrease this, you do so at the risk of part failure which may result in damage to your lens or other property.
 
+![Front View](https://github.com/jledgett/3d-print-camera-2/raw/main/images/Front%20View%20-%20Canon%2024-105.jpg)
+
 ## Assembly Instructions
 
 1. Install Raspbian OS onto the SD card and perform any initial configuration.
@@ -195,4 +200,7 @@ Please see the following individual print notes below.
 32. Attach the USB-C cable clips using a 1/4"-1/4" coupler or 1/4"-3/8" coupler from the camera screw pack.    Before the tightening these down, feed the USB-C cable through the clips, ensuring there is enough length on the left side for it to reach the Raspberry Pi's USB-C port.
 33. If you printed the optional Stylus Clip, attach it to the right of the front housing (below the battery compartment).   This should be able to hold a stylus or pen 8-9mm in diameter.
 34. Slide the battery into the compartment and secure it by threading the knob on the top handle until it is snug.   Do not overtighten or you may damage your battery.
+
+![Side View](https://github.com/jledgett/3d-print-camera-2/raw/main/images/Side%20View%20-%2035mm.jpg)
+
 
