@@ -107,7 +107,7 @@ Please see the following individual print notes below.
    * Adhesion Type: Skirt
    * Positioning: Interior Side Down
    * Quantity: 1
-<br>
+
 * **Panel - Left**
    * Infill: 80%
    * Material Required: ~ 10g - Hatchbox True Black 1.75mm PLA
